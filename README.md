@@ -1,8 +1,8 @@
 # Open Source Audit Project
 
 ## Student Details
-- Name: Aman Kumar Akela
-- Roll Number: 24BCE11196
+- Name: Ritik Kumar Pandey
+- Roll Number: 24BCY10272
 
 ## Chosen Software
 Git (Open Source Version Control System)
